@@ -27,7 +27,7 @@ To install the software, you need to do the following:
 ```bash
 mkdir project-folder
 cd project-folder
-git clone https://github.com/tamasdinh/starnotary-dapp.git
+git clone https://github.com/manthan-hrudanand/Cryptostar_Dapp_Ethereum.git
 ``` 
 
 **3.** Install and save dependencies to project folder:
