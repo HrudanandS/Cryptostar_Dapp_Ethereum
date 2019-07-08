@@ -32,9 +32,16 @@ git clone https://github.com/manthan-hrudanand/Cryptostar_Dapp_Ethereum.git
 
 **3.** Install and save dependencies to project folder:
 
-npm install -g truffle      # this is actually a global install
+npm install -g truffle      # this is actually a global install  -- version used or installed for this poject is 5.0.26
 npm install openzeppelin-solidity --save    # this is needed for ERC721 contracts
 npm install truffle-hdwallet-provider --save # wallet provider for deployment to Ethereum network
+
+Truffle version and openzeppelin versions used for this project:-
+
+Truffle v5.0.26 (core: 5.0.26)
+Solidity - 0.5.1 (solc-js)
+Node v10.16.0
+Web3.js v1.0.0-beta.37
 
 __4.__ Install Ethereum wallet provider Metamask [(see instructions here)](https://metamask.io) plugin for your browser (Google Chrome or Brave)
 
